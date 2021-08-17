@@ -4,7 +4,7 @@
   this.cronapi = this.cronapi || {};
 
    /**
-   * @categoryName Arquivo
+   * @categoryName ArquivoWeb
    */
   this.cronapi.myfunctions = this.cronapi.myfunctions || {};
   
